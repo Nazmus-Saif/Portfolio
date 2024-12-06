@@ -1,37 +1,29 @@
 :root {
+/*-----------------------------------*\
+                  RESET
+\*-----------------------------------*/
+
   /* gradient */
-  --bg-gradient-onyx: linear-gradient(
-    to bottom right,
-    hsl(240, 1%, 25%) 3%,
-    hsl(0, 0%, 19%) 97%
-  );
-  --bg-gradient-jet: linear-gradient(
-      to bottom right,
+  --bg-gradient-onyx: linear-gradient(to bottom right,
+      hsl(240, 1%, 25%) 3%,
+      hsl(0, 0%, 19%) 97%);
+  --bg-gradient-jet: linear-gradient(to bottom right,
       hsla(240, 1%, 18%, 0.251) 0%,
-      hsla(240, 2%, 11%, 0) 100%
-    ),
+      hsla(240, 2%, 11%, 0) 100%),
     hsl(240, 2%, 13%);
-  --bg-gradient-yellow-1: linear-gradient(
-      135deg,
+  --bg-gradient-yellow-1: linear-gradient(135deg,
       hsla(45, 100%, 71%, 0.251) 0%,
-      hsla(35, 100%, 68%, 0) 59.86%
-    ),
+      hsla(35, 100%, 68%, 0) 59.86%),
     hsl(240, 2%, 13%);
-  --bg-gradient-yellow-2: linear-gradient(
-    to bottom right,
-    hsl(45, 100%, 71%) 0%,
-    hsla(36, 100%, 69%, 0) 50%
-  );
-  --border-gradient-onyx: linear-gradient(
-    to bottom right,
-    hsl(0, 0%, 25%) 0%,
-    hsla(0, 0%, 25%, 0) 50%
-  );
-  --text-gradient-yellow: linear-gradient(
-    to right,
-    hsl(45, 100%, 72%),
-    hsl(35, 100%, 68%)
-  );
+  --bg-gradient-yellow-2: linear-gradient(to bottom right,
+      hsl(45, 100%, 71%) 0%,
+      hsla(36, 100%, 69%, 0) 50%);
+  --border-gradient-onyx: linear-gradient(to bottom right,
+      hsl(0, 0%, 25%) 0%,
+      hsla(0, 0%, 25%, 0) 50%);
+  --text-gradient-yellow: linear-gradient(to right,
+      hsl(45, 100%, 72%),
+      hsl(35, 100%, 68%));
 
   /* solid */
   --jet: hsl(0, 0%, 22%);
@@ -105,6 +97,23 @@ button,
 time,
 span {
   display: block;
+}
+
+a,
+input,
+textarea,
+button,
+select {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  /* remove the blue outline when touched */
+}
+
+a:focus,
+a:visited,
+a:active {
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+  /* remove the blue outline when touched */
 }
 
 button {
@@ -460,7 +469,6 @@ main {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  padding: 0 10px;
 }
 
 .rotating-image {
@@ -846,7 +854,7 @@ body.change-theme::-webkit-scrollbar-thumb {
   box-shadow: var(--shadow-2);
 }
 
-.comment-show-floating-div-img-wrapper > img {
+.comment-show-floating-div-img-wrapper>img {
   display: none;
 }
 
@@ -1129,7 +1137,7 @@ body.change-theme::-webkit-scrollbar-thumb {
   transition: 0.15s ease-in-out;
 }
 
-.filter-select.active + .select-list {
+.filter-select.active+.select-list {
   opacity: 1;
   visibility: visible;
   pointer-events: all;
@@ -1180,7 +1188,7 @@ body.change-theme::-webkit-scrollbar-thumb {
   }
 }
 
-.project-item > div {
+.project-item>div {
   width: 100%;
 }
 
@@ -1205,7 +1213,7 @@ body.change-theme::-webkit-scrollbar-thumb {
   transition: var(--transition-1);
 }
 
-.project-item > div:hover .project-img::before {
+.project-item>div:hover .project-img::before {
   background: hsla(0, 0%, 0%, 0.5);
 }
 
@@ -1225,7 +1233,7 @@ body.change-theme::-webkit-scrollbar-thumb {
   transition: var(--transition-1);
 }
 
-.project-item > div:hover .project-item-icon-box {
+.project-item>div:hover .project-item-icon-box {
   --scale: 1;
   opacity: 1;
 }
@@ -1241,7 +1249,7 @@ body.change-theme::-webkit-scrollbar-thumb {
   transition: var(--transition-1);
 }
 
-.project-item > div:hover img {
+.project-item>div:hover img {
   transform: scale(1.1);
 }
 
@@ -1325,8 +1333,7 @@ body.change-theme::-webkit-scrollbar-thumb {
   z-index: 2;
 }
 
-.portfolio-item-floating-form-container.active
-  .portfolio-item-floating-form-div {
+.portfolio-item-floating-form-container.active .portfolio-item-floating-form-div {
   transform: scale(1);
   opacity: 1;
 }
@@ -1465,7 +1472,7 @@ body.change-theme::-webkit-scrollbar-thumb {
   box-shadow: var(--shadow-2);
 }
 
-.portfolio-details-floating-div-img-wrapper > img {
+.portfolio-details-floating-div-img-wrapper>img {
   display: none;
 }
 
@@ -1505,7 +1512,7 @@ body.change-theme::-webkit-scrollbar-thumb {
   gap: 20px;
 }
 
-.blog-post-item > div {
+.blog-post-item>div {
   position: relative;
   background: var(--border-gradient-onyx);
   height: 100%;
@@ -1514,7 +1521,7 @@ body.change-theme::-webkit-scrollbar-thumb {
   z-index: 1;
 }
 
-.blog-post-item > div::before {
+.blog-post-item>div::before {
   content: "";
   position: absolute;
   inset: 1px;
@@ -1537,7 +1544,7 @@ body.change-theme::-webkit-scrollbar-thumb {
   transition: var(--transition-1);
 }
 
-.blog-post-item > div:hover .blog-banner-box img {
+.blog-post-item>div:hover .blog-banner-box img {
   transform: scale(1.1);
 }
 
@@ -1572,7 +1579,7 @@ body.change-theme::-webkit-scrollbar-thumb {
   transition: var(--transition-1);
 }
 
-.blog-post-item > div:hover .blog-item-title {
+.blog-post-item>div:hover .blog-item-title {
   color: var(--orange-yellow-crayola);
 }
 
@@ -1783,13 +1790,12 @@ textarea.form-input::-webkit-resizer {
   .navbar-list {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
-    /* 6 columns with equal width */
   }
 }
 
-@media (min-width: 390px) and (max-width: 430px) {
+@media (min-width: 369px) and (max-width: 580px) {
   .navbar-link {
-    font-size: 14px;
+    font-size: var(--fs-6);
   }
 }
 
@@ -1835,7 +1841,6 @@ textarea.form-input::-webkit-resizer {
 
   main {
     margin-top: 30px;
-    /* this margin work from 768px width to above */
     margin-bottom: 95px;
   }
 
@@ -2000,7 +2005,7 @@ textarea.form-input::-webkit-resizer {
     width: 65px;
   }
 
-  .comment-show-floating-div-img-wrapper > img {
+  .comment-show-floating-div-img-wrapper>img {
     display: block;
     flex-grow: 1;
     width: 35px;
@@ -2061,11 +2066,19 @@ textarea.form-input::-webkit-resizer {
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 600px) and (max-width: 1249px) {
+
   .sidebar,
   article {
-    width: 705px;
+    width: calc(540px + ((100vw - 600px) / 168) * 168);
+    /* width starts at 540px when the viewport is 600px wide and increases up to 680px when the viewport reaches 768px */
   }
+}
+
+
+
+@media (min-width: 768px) {
+
 
   .has-scrollbar::-webkit-scrollbar-button {
     width: 100px;
@@ -2135,20 +2148,6 @@ textarea.form-input::-webkit-resizer {
   }
 }
 
-@media (min-width: 820px) {
-  .sidebar,
-  article {
-    width: 735px;
-  }
-}
-
-@media (min-width: 912px) {
-  .sidebar,
-  article {
-    width: 850px;
-  }
-}
-
 @media (min-width: 1024px) {
   :root {
     --shadow-1: -4px 8px 24px hsla(0, 0%, 0%, 0.125);
@@ -2158,7 +2157,6 @@ textarea.form-input::-webkit-resizer {
 
   .sidebar,
   article {
-    width: 960px;
     box-shadow: var(--shadow-5);
   }
 
@@ -2370,7 +2368,6 @@ textarea.form-input::-webkit-resizer {
   main {
     min-width: 1300px;
     margin-inline: auto;
-    /* it effectively centers the element horizontally within its containing block */
     display: flex;
     justify-content: center;
     align-items: stretch;
@@ -2438,13 +2435,13 @@ textarea.form-input::-webkit-resizer {
 /* calculation for automatically adjust the main div size */
 :root {
   --page-min-width: 1370px;
-  /* Initial min-width value */
+  /* iinitial value */
 }
 
 @media (min-width: 1400px) {
   :root {
     --page-min-width: calc(1370px + (100vw - 1400px));
-    /* Calculate min-width based on screen width */
+    /* calculate min-width based on screen width */
   }
 
   main {
