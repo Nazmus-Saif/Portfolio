@@ -1,0 +1,127 @@
+info: Logger initialized successfully. {"timestamp":"2024-12-22T07:44:16.888Z"}
+info: Server is running on http://localhost:5000 {"timestamp":"2024-12-22T07:44:16.896Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-22T07:44:16.926Z"}
+info: New comment submitted: alskdfj - aldskf... {"timestamp":"2024-12-22T07:44:28.497Z"}
+info: Shutting down server... {"timestamp":"2024-12-22T07:47:13.596Z"}
+info: Server is running on http://localhost:5000 {"timestamp":"2024-12-22T07:50:05.682Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-22T07:50:05.713Z"}
+info: Shutting down server... {"timestamp":"2024-12-22T07:50:13.759Z"}
+info: Server is running on http://localhost:5000 {"timestamp":"2024-12-22T07:52:25.394Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-22T07:52:25.424Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-22T07:52:28.725Z"}
+info: Server is running on http://localhost:5000 {"timestamp":"2024-12-22T07:53:42.456Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-22T07:53:42.486Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-22T07:53:47.754Z"}
+info: Server is running on http://localhost:5000 {"timestamp":"2024-12-22T07:55:45.408Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-22T07:55:45.437Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-22T07:58:26.853Z"}
+info: Server is running on http://localhost:5000 {"timestamp":"2024-12-22T07:58:32.133Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-22T07:58:32.165Z"}
+info: New comment submitted: laksdfj - asdlkj... {"timestamp":"2024-12-22T08:10:58.713Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-22T08:12:20.169Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-22T08:12:22.773Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-22T08:12:33.234Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-22T08:12:47.102Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-22T08:12:55.964Z"}
+info: Server is running on http://localhost:5000 {"timestamp":"2024-12-22T08:13:34.819Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-22T08:13:34.860Z"}
+info: New comment submitted: asdklfj - sdla;fj... {"timestamp":"2024-12-22T08:17:04.795Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-22T08:21:41.966Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-22T08:21:43.138Z"}
+info: Server is running on http://localhost:5000 {"timestamp":"2024-12-22T08:22:27.273Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-22T08:22:27.302Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-22T08:23:42.047Z"}
+info: Server is running on http://localhost:5000 {"timestamp":"2024-12-22T08:23:55.498Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-22T08:23:55.528Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-22T08:24:02.980Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-22T08:24:04.181Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-22T08:24:58.861Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-22T08:25:00.269Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-22T08:25:01.636Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-22T08:25:08.534Z"}
+info: Server is running on http://localhost:5000 {"timestamp":"2024-12-22T08:25:20.405Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-22T08:25:20.435Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-22T08:28:33.215Z"}
+info: Server is running on http://localhost:5000 {"timestamp":"2024-12-22T08:29:57.064Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-22T08:29:57.097Z"}
+info: New comment submitted: Saif - Nice work you have done.... {"timestamp":"2024-12-22T08:30:36.000Z"}
+info: New comment submitted: alo - alo... {"timestamp":"2024-12-22T08:35:41.476Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-22T08:41:20.848Z"}
+info: Server is running on http://localhost:5000 {"timestamp":"2024-12-22T08:43:10.806Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-22T08:43:10.837Z"}
+info: New comment submitted: laksdjf - alsdkj... {"timestamp":"2024-12-22T08:43:24.133Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-22T08:44:55.568Z"}
+info: Server is running on http://localhost:5000 {"timestamp":"2024-12-22T12:18:05.194Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-22T12:18:05.217Z"}
+info: New comment submitted: sdlkfajdsl - aldskjfdkl... {"timestamp":"2024-12-22T12:18:17.775Z"}
+info: New comment submitted: tavir - tanvir
+... {"timestamp":"2024-12-22T12:18:29.209Z"}
+info: New comment submitted: alskdfj - lasdkj... {"timestamp":"2024-12-22T12:22:09.462Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-22T12:23:39.404Z"}
+info: Server is running on http://localhost:5000 {"timestamp":"2024-12-23T14:50:34.917Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-23T14:50:34.988Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-23T14:51:33.896Z"}
+info: Server is running on http://localhost:5000 {"timestamp":"2024-12-23T17:37:34.547Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-23T17:37:34.582Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-23T17:37:50.585Z"}
+info: Server is running on http://localhost:5000 {"timestamp":"2024-12-23T17:37:56.952Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-23T17:37:56.998Z"}
+info: New comment submitted: Zack Snyder - Lorem ipsum dolor sit amet consectetur adipisicing... {"timestamp":"2024-12-23T17:39:18.163Z"}
+info: New comment submitted: James Gun - Lorem ipsum dolor sit amet consectetur adipisicing... {"timestamp":"2024-12-23T17:39:45.349Z"}
+info: Email Sent: 250 2.0.0 OK  1734975697 41be03b00d2f7-842e2590f78sm7428560a12.70 - gsmtp {"timestamp":"2024-12-23T17:41:13.389Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-23T17:41:48.830Z"}
+info: Server is running on http://localhost:5000 {"timestamp":"2024-12-26T11:17:08.057Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-26T11:17:08.085Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-26T11:17:34.380Z"}
+info: Server is running on http://localhost:5000 {"timestamp":"2024-12-26T11:19:22.927Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-26T11:19:22.954Z"}
+info: Email Sent: 250 2.0.0 OK  1735212035 d9443c01a7336-219dc962c8csm118534255ad.49 - gsmtp {"timestamp":"2024-12-26T11:20:07.555Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-26T11:20:39.814Z"}
+info: Server is running on http://localhost:5000 {"timestamp":"2024-12-26T16:36:47.279Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-26T16:36:50.234Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-26T16:37:40.124Z"}
+info: Server is running on http://localhost:5000 {"timestamp":"2024-12-26T16:37:44.454Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-26T16:37:45.528Z"}
+info: New comment submitted: Zack Snyder - Lorem ipsum dolor sit amet consectetur adipisicing... {"timestamp":"2024-12-26T16:39:17.568Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-26T16:52:42.003Z"}
+info: Server is running on http://localhost:5000 {"timestamp":"2024-12-26T17:06:05.495Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-26T17:06:06.781Z"}
+info: New comment submitted: laksdjf - asdlfkjad... {"timestamp":"2024-12-26T17:06:48.950Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-26T17:11:42.604Z"}
+info: Server is running on http://localhost:5000 {"timestamp":"2024-12-26T17:27:59.957Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-26T17:28:01.288Z"}
+info: New comment submitted: James Gun - Lorem ipsum dolor sit amet consectetur adipisicing... {"timestamp":"2024-12-26T17:31:28.455Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-26T17:38:10.826Z"}
+info: Server is running on http://localhost:5000 {"timestamp":"2024-12-26T18:04:15.529Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-26T18:04:17.990Z"}
+info: New comment submitted: Tanvir Zaman - Lorem ipsum dolor sit amet consectetur adipisicing... {"timestamp":"2024-12-26T18:04:41.753Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-26T18:04:49.286Z"}
+info: Server is running... {"timestamp":"2024-12-27T06:42:01.499Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-27T06:42:02.309Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-27T06:43:16.932Z"}
+info: Server is running... {"timestamp":"2024-12-27T06:43:20.119Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-27T06:43:20.944Z"}
+info: Server is running... {"timestamp":"2024-12-27T08:34:06.490Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-27T08:34:07.292Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-27T08:35:31.570Z"}
+info: Server is running... {"timestamp":"2024-12-27T08:35:34.245Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-27T08:35:35.073Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-27T08:36:11.978Z"}
+info: Server is running... {"timestamp":"2024-12-27T08:36:58.043Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-27T08:36:58.853Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-27T08:37:14.389Z"}
+info: Server is running... {"timestamp":"2024-12-27T08:37:16.527Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-27T08:37:17.281Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-27T08:39:36.397Z"}
+info: Server is running... {"timestamp":"2024-12-27T08:39:38.377Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-27T08:39:39.181Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-27T08:40:34.868Z"}
+info: Server is running... {"timestamp":"2024-12-27T08:40:36.829Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-27T08:40:37.558Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-27T08:40:58.826Z"}
+info: Server is running... {"timestamp":"2024-12-27T09:13:13.164Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-27T09:13:14.052Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-27T09:13:39.036Z"}
+info: Server is running... {"timestamp":"2024-12-27T09:13:41.411Z"}
+info: Connected to MongoDB {"timestamp":"2024-12-27T09:13:42.121Z"}
+info: Shutting down gracefully... {"timestamp":"2024-12-27T09:13:56.628Z"}
