@@ -89,7 +89,7 @@ const SideBar = () => {
           <h1 className="name" title="Nazmus Saif">
             Nazmus Saif
           </h1>
-          <p className="title">Computer Engineer</p>
+          <p className="title">Software Engineer</p>
         </div>
         <button
           className="info-more-btn"
