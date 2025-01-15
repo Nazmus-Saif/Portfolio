@@ -44,17 +44,18 @@ app.use(
 // Helmet middleware for additional security
 app.use(helmet());
 
+// Rate limiter for comment submissions (1 request per second)
 const commentLimiter = rateLimit({
   windowMs: 1000, // 1 second
   max: 1, // Allow only 1 request per IP address per second
-  message: "Too many requests, please try again in a second.",
+  message: "Too many requests, please try again in 1 second.",
 });
 
-// Rate limiter for email submissions
+// Rate limiter for email submissions (1 request per second)
 const emailLimiter = rateLimit({
-  windowMs: 15 * 60 * 1000, // 15 minutes
-  max: 5, // Limit each IP to 5 requests per window
-  message: "Too many emails sent, please try again later.",
+  windowMs: 1000, // 1 second
+  max: 1, // Allow only 1 request per IP address per second
+  message: "Too many emails sent, please try again in 1 second.",
 });
 
 // Connect to MongoDB
@@ -105,7 +106,7 @@ app.get("/", (req, res) => {
   res.send("Hello, Vercel!");
 });
 
-// Endpoint to handle comment form submission
+// Endpoint to handle comment form submission with rate limiter
 app.post("/submit-comment", commentLimiter, async (req, res) => {
   const { name, comment } = req.body;
 
