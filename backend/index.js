@@ -44,11 +44,10 @@ app.use(
 // Helmet middleware for additional security
 app.use(helmet());
 
-// Rate limiter for comment submissions
 const commentLimiter = rateLimit({
-  windowMs: 15 * 60 * 1000, // 15 minutes
-  max: 50, // Limit each IP to 50 requests per window
-  message: "Too many requests, please try again later.",
+  windowMs: 1000, // 1 second
+  max: 1, // Allow only 1 request per IP address per second
+  message: "Too many requests, please try again in a second.",
 });
 
 // Rate limiter for email submissions
