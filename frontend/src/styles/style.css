@@ -502,18 +502,6 @@ main {
   animation: rotate 0s;
 }
 
-body.change-theme {
-  background-color: #333333;
-}
-
-body.change-theme::-webkit-scrollbar-track {
-  background: #333333;
-}
-
-body.change-theme::-webkit-scrollbar-thumb {
-  border: 5px solid #333333;
-}
-
 .navbar-link {
   color: var(--light-gray);
   font-size: var(--fs-8);
