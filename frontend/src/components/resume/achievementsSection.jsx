@@ -9,7 +9,7 @@ const achievementsSection = [
   },
   {
     universityName: "Eastern University",
-    degreeTimeline: "June 2022 | Dhaka, Bangladesh",
+    degreeTimeline: "Jun 2022 | Dhaka, Bangladesh",
     degreeName:
       "I was honored with the University Meritorious Student Award, which granted me a 100% tuition waiver in recognition of my exceptional academic performance throughout my BSc.",
   },
