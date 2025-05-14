@@ -12,12 +12,12 @@ const skillsSection = [
   },
   {
     skillsGenre: "Database Management",
-    skillsItems: "PostgreSQL","MySQL, MongoDB, Firebase",
+    skillsItems: "PostgreSQL, MySQL, MongoDB, Firebase",
   },
   {
     skillsGenre: "Machine Learning",
     skillsItems:
-      "AI Agent","Supervised Learning, Neural Networks, NLP, Deep Learning, LLMs",
+      "AI Agent, Supervised Learning, Neural Networks, NLP, Deep Learning, LLMs",
   },
   {
     skillsGenre: "Machine Learning Frameworks & Libraries",
