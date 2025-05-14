@@ -3,7 +3,7 @@ import React from "react";
 const achievementsSection = [
   {
     universityName: "Brain Station 23 – Star Coder Program",
-    degreeTimeline: "Mar 2025 | Dhaka, Bangladesh",
+    degreeTimeline: "Mar 2025 | Mohakhali, Dhaka, Bangladesh",
     degreeName:
       "Selected as one of the Top 15 Star Coders from over 7,000 participants during a rigorous 3-month technical evaluation process. This achievement led to my recruitment as a Software Engineer I at Brain Station 23, recognizing my performance, problem-solving ability, and consistent growth throughout the program.",
   },
