@@ -2,6 +2,12 @@ import React from "react";
 
 const experiencesSection = [
   {
+    experienceField: "Brain Station 23 | Software Engineer I",
+    experienceTimeline: "Mar 2025 – Present | Mohakhali, Dhaka, Bangladesh",
+    experienceDescription:
+      "As a Software Engineer I at Brain Station 23, I actively contribute to the software development lifecycle by writing clean, maintainable code and delivering moderately complex features. I participate in daily standups and sprint planning, and take ownership of end-to-end module development. My responsibilities include debugging issues, conducting unit testing, and collaborating closely with team members through code reviews, pair programming, and knowledge sharing. I continuously learn and apply modern development tools and AI to enhance productivity while adhering to established coding standards and project architecture.",
+  },
+  {
     experienceField: "Interactive Cares | Brand Representative",
     experienceTimeline: "Mar 2024 - Present | Dhaka, Bangladesh",
     experienceDescription:
