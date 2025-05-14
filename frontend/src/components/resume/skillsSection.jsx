@@ -7,8 +7,7 @@ const skillsSection = [
   },
   {
     skillsGenre: "Web Development",
-    skillsItems:
-      "HTML, SCSS, JavaScript, jQuery, React.js, EJS, Django, Express.js, FastAPI, REST APIs",
+    skillsItems: "HTML, SCSS, JavaScript, jQuery, React.js, EJS, Django, Express.js, FastAPI, REST APIs",
   },
   {
     skillsGenre: "Database Management",
