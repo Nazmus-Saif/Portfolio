@@ -8,16 +8,16 @@ const skillsSection = [
   {
     skillsGenre: "Web Development",
     skillsItems:
-      "HTML, CSS, JavaScript, Bootstrap, jQuery, React.js, EJS, Express.js, REST APIs",
+      "HTML, SCSS, JavaScript, jQuery, React.js, EJS, Django, Express.js, FastAPI, REST APIs",
   },
   {
     skillsGenre: "Database Management",
-    skillsItems: "MySQL, MongoDB, Firebase",
+    skillsItems: "PostgreSQL","MySQL, MongoDB, Firebase",
   },
   {
     skillsGenre: "Machine Learning",
     skillsItems:
-      "Supervised Learning, Neural Networks, NLP, Deep Learning, LLMs",
+      "AI Agent","Supervised Learning, Neural Networks, NLP, Deep Learning, LLMs",
   },
   {
     skillsGenre: "Machine Learning Frameworks & Libraries",
@@ -26,11 +26,11 @@ const skillsSection = [
   },
   {
     skillsGenre: "Tools",
-    skillsItems: "Git/GitHub, Visual Studio Code, Google Colab",
+    skillsItems: "Git/GitHub, Visual Studio Code, PyCharm, Google Colab",
   },
   {
     skillsGenre: "Others",
-    skillsItems: "Figma (UI/UX design), Selenium (automation testing)",
+    skillsItems: "Selenium (automation testing)",
   },
   {
     skillsGenre: "Research Interests",
