@@ -30,7 +30,7 @@ const experiencesSection = [
     experienceTimeline:
       "Feb 2019 - Nov 2019 | Bashundhara City Shopping Mall, Dhaka, Bangladesh",
     experienceDescription:
-      "During my time as a Sales Manager at Sumash Tech, I worked extensively with mobile phones. This hands-on experience sparked my curiosity about how computers functioned beyond their surface-level capabilities. Intrigued by the technical aspects, I began exploring the world of computing, which ultimately led me to pursue a career in Computer Science and Engineering (CSE). This role played a pivotal part in igniting my passion for technology and shaping my decision to delve into the field of CSE, setting the foundation for my journey as a tech enthusiast and professional.",
+      "During my time as a Sales Manager at Sumash Tech, I worked extensively with mobile phones. This hands-on experience sparked my curiosity about how computers functioned beyond their surface-level capabilities. I began exploring the world of computing, which ultimately led me to pursue a career in Computer Science and Engineering.",
   },
 ];
 
