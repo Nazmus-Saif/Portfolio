@@ -11,7 +11,7 @@ const experiencesSection = [
     experienceField: "Google | Interview in Google",
     experienceTimeline: "10 July 2024",
     experienceDescription:
-      "I recently had the opportunity to interview with Google, where the focus was primarily on data structures and algorithms, particularly graph and tree-related problems. It was a challenging yet enriching experience that tested my problem-solving skills and deepened my understanding of advanced DSA concepts.",
+      "I recently had the opportunity to interview with Google, where the focus was primarily on data structures and algorithms, particularly graph and tree-related problems. It was a challenging yet enriching experience that tested my problem-solving skills.",
   },
   {
     experienceField: "Microsoft | Interview in Microsoft",
